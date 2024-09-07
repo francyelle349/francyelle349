@@ -17,6 +17,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=francyelle349&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=francyelle349&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 Contributions
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francyelle349&bg_color=000000&color=8bafc6&line=489387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
