@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>✨ I’m currently working on mobile application projects.<br>✨ I’m learning Flutter and Dart.<br>✨ I’m learning Web Development.<br>✨ I’m always striving to improve my programming skills.<br> <br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
+<br>✨ I’m currently working on mobile application projects.<br>✨ I’m learning Flutter and Dart.<br>✨I have Knowledge in Java, MySQL, and Web Development.<br>✨ I’m always striving to improve my programming skills.<br> <br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
 
 
 ## 🌐 Socials:
