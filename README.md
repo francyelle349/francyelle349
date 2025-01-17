@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>✨ I’m currently working on mobile application projects.<br>✨ I’m learning Mobile Development using the Framework Flutter.<br>✨I have Knowledge in Java, Web Dev, Linux, Mobile, Data Structure and System Design.<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
+✨ I’m learning Mobile Development using the Framework Flutter.<br>✨I have Knowledge in Java, Firebase, MySQL, Web Dev, Linux, Mobile, Data Structure and System Design.<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
 
 
 ## 🌐 Socials:
