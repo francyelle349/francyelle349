@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Software Engineering, Mobile Development using the Framework Flutter.<br>✨I have Knowledge in Java, Firebase, MySQL, Web Dev, Linux, Mobile, Data Structure and System Design.<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
+✨ Full-Stack Software Engineering.<br>✨I have Knowledge in Java, Spring Boot, Docker, Firebase, MySQL, Web Development, Linux, Flutter, Data Structure and System Design.<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
 
 
 
