@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Full-Stack Software Development.<br>✨I have Knowledge in Java, Spring Boot, Docker, Web and Mobile Development<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
+✨ Full-Stack Software Development.<br>✨I have Knowledge in Java, Spring Boot, Docker, Web and Mobile Development.<br>✨ I’m always improving my coding skills.<br><br><br><br>☕📚✨ Fun facts about me: I love discovering new things, reading books, and enjoying a good cup of coffee.
 
 
 ## 🌐 Socials:
